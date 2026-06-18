@@ -1,0 +1,38 @@
+# EmpaBot – Emotion Detection and Expression Robot
+
+## Overview
+EmpaBot is an interactive robot that detects the emotions of a person standing in front of it, identifies the emotional state, and expresses the detected emotion through appropriate responses. The robot is designed to improve human-robot interaction by recognizing and reacting to human emotions in real time.
+
+## Features
+- Real-time emotion detection
+- Human face and emotion recognition
+- Emotion classification
+- Interactive emotional responses
+- Arduino and Python integration
+- Human-robot interaction
+
+## Technologies Used
+- Python
+- Arduino
+- Computer Vision
+- OpenCV
+- Embedded Systems
+
+## Working Principle
+A camera captures the face of the person standing in front of the robot. The captured image is processed using emotion recognition algorithms to identify emotions such as happiness, sadness, anger, surprise, or neutrality. After detecting the emotion, EmpaBot announces or displays the detected emotion and expresses it through predefined actions, creating a more natural and engaging interaction.
+
+## Applications
+- Human-Robot Interaction
+- Educational Robotics
+- Emotion-Aware Systems
+- AI and Robotics Research
+- Assistive Technologies
+
+## Future Enhancements
+- Voice Emotion Recognition
+- Advanced AI-Based Emotion Analysis
+- Mobile Application Integration
+- Personalized User Interaction
+
+## Author
+Devipriya
