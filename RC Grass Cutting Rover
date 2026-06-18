@@ -1,0 +1,45 @@
+# RC Grass Cutting Rover
+
+## Overview
+The RC Grass Cutting Rover is a remote-controlled robotic vehicle designed for grass-cutting applications. The rover combines embedded systems, motor control, and wireless communication to provide efficient and safe lawn maintenance.
+
+## Features
+- Remote-controlled operation
+- Grass-cutting mechanism using DC motor
+- Obstacle detection using sensors
+- Arduino-based control system
+- Battery-powered mobile platform
+- Four-wheel drive for better terrain handling
+
+## Hardware Components
+- Arduino Uno/Nano
+- L298N Motor Driver
+- DC Gear Motors
+- Grass Cutting Motor
+- Ultrasonic Sensor
+- RF/Bluetooth Control Module
+- Rechargeable Battery Pack
+- Chassis and Wheels
+
+## Software
+- Arduino IDE
+- Embedded C/C++
+- Serial Communication Libraries
+
+## Working Principle
+The rover receives commands from a remote controller and moves accordingly. A high-speed motor drives the cutting blade to trim grass. Sensors help detect obstacles and improve operational safety.
+
+## Applications
+- Lawn maintenance
+- Garden grass cutting
+- Agricultural field maintenance
+- Robotics and embedded systems projects
+
+## Future Improvements
+- Autonomous navigation
+- GPS-based path planning
+- IoT monitoring and control
+- Camera-based obstacle detection
+
+## Author
+Devipriya
